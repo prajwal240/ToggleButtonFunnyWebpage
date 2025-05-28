@@ -1,4 +1,4 @@
-# Love Proposal Web Page
+# Fun with Toggle Button
 
 This is a fun and romantic interactive web page designed to simulate a playful love proposal. It asks the user a simple question — *"Do you love me?"* — with “Yes” and “No” buttons. But there’s a twist! When the user tries to hover over the "No" button, the buttons **swap their labels** to ensure the answer is always "Yes"!
 
@@ -19,7 +19,7 @@ When opened in the browser:
 proposal-page/
 ├── index.html      # Main HTML page
 ├── script.js       # JavaScript logic
-├── img1.jpg        # Background image (you should add this in your folder)
+├── img1.jpg        # Background image
 ```
 
 ## Key Features
