@@ -1,4 +1,4 @@
-# Fun with Toggle Button
+# Fun With Toggle Button
 
 This is a fun and romantic interactive web page designed to simulate a playful love proposal. It asks the user a simple question — *"Do you love me?"* — with “Yes” and “No” buttons. But there’s a twist! When the user tries to hover over the "No" button, the buttons **swap their labels** to ensure the answer is always "Yes"!
 
